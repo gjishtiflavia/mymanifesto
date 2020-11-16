@@ -1,0 +1,33 @@
+h1{
+  font-size: 200px;
+  font-family:"Parisienne,cursive";
+}
+body{
+   font-size:20px;
+   font-family:"Parisienne,cursive";
+   background-color: #d5a2c6;
+}
+p{
+  font-family: cursive;
+  font-size: 10px
+  color:white;
+}
+#header {
+    background-color: red;
+    width:100%
+    color:red;
+    position: fixed;
+    z-index: 100;
+  }
+#footer {
+   background-color: white;
+   width:auto;95%
+   color:purple;
+}
+a:link {
+   text-decoration: none;
+   border-bottom: 1px;
+}
+a:hoover {
+     color:purple;
+}

@@ -7,6 +7,9 @@ h2{
   font font-family:"Parisienne,cursive";
   font-size:40px;
 }
+h3{
+  font-size:40px;
+}
 div {
   border: 1px solid black;
   background-color:#d5a2c6;

@@ -10,8 +10,8 @@ div {
   padding-bottom: 50px;
   padding-left: 80px;
 }
-#content {
-    width: 50px;
+#content{
+    width:50px;
     margin:auto;
     padding-left:4em;
     color:white;
@@ -23,7 +23,7 @@ body{
 }
 p1{
   font-family:"Parisienne,cursive";
-  font-size: 10px;
+  font-size: 50px;
   color:white;
 }
 h2{

@@ -28,10 +28,11 @@ p1{
   color:black;
 }
 h2{
+  font-size: 35px
   padding-left: 5em;
 }
 h3{
-  font-size: 35px;
+  font-size: 15px;
 }
 #header {
     background-color: white;

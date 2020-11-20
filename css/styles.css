@@ -1,13 +1,14 @@
 h1{
   font-size: 200px;
   font-family:"Parisienne,cursive";
+}
+p{
   background-image: url("marble_001.gif");
 }
 #content {
   width
   margin: auto
   padding-left: 4em
-  background-image:url(marble_001.gif);
 }
 
 body{

@@ -10,9 +10,6 @@ h2{
 p0{
   font-size:20px;
 }
-h4{
-  font-size: 55px;
-}
 div {
   border: 1px solid black;
   background-color:#d5a2c6;
@@ -20,6 +17,9 @@ div {
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+}
+h4{
+  font-size: 55px;
 }
 #content{
     width:0px;

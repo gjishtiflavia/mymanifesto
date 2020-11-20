@@ -3,7 +3,8 @@ h1{
   font-family:"Parisienne,cursive";
 }
 p{
-  background-image: url("marble_001.gif");
+  background-image: url(https://pixabay.com/illustrations/red-moth-butterfly-insect-moths-4500348/);
+  background-size: cover;
 }
 #content {
   width

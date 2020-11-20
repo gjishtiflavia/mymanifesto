@@ -12,10 +12,14 @@ body{
 p{
   font-family:'Ubuntu', sans-serif;
   font-size: 10px
+  padding
   color:white;
 }
 h2{
   padding-left: 5em
+}
+h4{
+  font-size: 40px;
 }
 #header {
     background-color: red;

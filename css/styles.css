@@ -2,20 +2,18 @@ h1{
   font-size: 200px;
   font-family:"Parisienne,cursive";
 }
-p{
-  background-image: url(file:///C:/Users/flavia/Desktop/FALL%202O2O/Design%20Studio%20I/4.%20Design%20as%20Critique/my_site/my%20manifesto/mymanifesto/marble_001.jpg);
-  background-size: cover;
-}
+
 #content {
   width
-  margin: auto
+  margin:auto;
   padding-left: 4em
 }
 
 body{
    font-size:20px;
    font-family:'Ubuntu', sans-serif;
-   background-image: url(marble_001.gif);
+   background-image: url(file:///C:/Users/flavia/Desktop/FALL%202O2O/Design%20Studio%20I/4.%20Design%20as%20Critique/my_site/my%20manifesto/mymanifesto/marble_001.jpg);
+   background-size: cover;
    background-color: #d5a2c6;
    padding-right:20px
 }

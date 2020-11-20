@@ -30,7 +30,7 @@ body{
    font-size:20px;
    font-family:"Parisienne,cursive";
    background-color: #d5a2c6;
-   .background-image:url(../img/marble_001.jpg);
+   background-image: url(..mymanifesto/marble_001.jpg);
 }
 p{
   font-family:"Big Shoulders Intline text,cursive";

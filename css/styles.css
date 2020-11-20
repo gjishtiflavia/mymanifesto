@@ -47,9 +47,7 @@ p1{
 #footer{
    background-color:white;
    margin:auto;
-   padding:20px;
    color:purple;
-   p.dotted {outline-style: dotted;}
 }
 a:link {
    text-decoration: none;

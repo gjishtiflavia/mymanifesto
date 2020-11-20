@@ -47,6 +47,7 @@ p1{
 #footer{
    background-color:white;
    margin:auto;
+   padding: 0px;
    color:purple;
 }
 a:link {

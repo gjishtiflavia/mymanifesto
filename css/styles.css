@@ -3,6 +3,13 @@ h1{
   font-family:"Parisienne,cursive";
   background-image: url("marble_001.gif");
 }
+#content {
+  width
+  margin: auto
+  padding-left: 4em
+  background-image:url(marble_001);
+}
+
 body{
    font-size:20px;
    font-family:'Ubuntu', sans-serif;

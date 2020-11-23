@@ -1,5 +1,5 @@
 h1{
-  font-size: 200px;
+  font-size: 300px;
   font-family:"Parisienne,cursive";
 }
 
@@ -19,11 +19,6 @@ p{
   font-size: 10px
   padding-left:4em
   color:white;
-}
-p{
-  background-image: image(marble_001.jpg);
-  background-size: cover;
-}
 }
 h2{
   padding-left: 5em

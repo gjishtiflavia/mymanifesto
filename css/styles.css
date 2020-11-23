@@ -10,7 +10,9 @@ h1{
 
 body{
    font-size:30px;
-   font-family:'Ubuntu', sans-serif;
+   font-family: itc-american-typewriter, serif;
+   font-style: normal;
+   font-weight: 300;
    background-color: #d5a2c6;
    padding-right:20px
 }

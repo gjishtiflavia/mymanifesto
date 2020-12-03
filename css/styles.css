@@ -32,11 +32,12 @@ p{
 
 h2{
   font-family:"Poppins", sans-serif;
-  font-size: 35px;
+  font-size: 60px;
   border: 2px solid white;
 }
 h3{
-  font-size: 35px;
+  font-size: 60px;
+  border-top: 2px solid white;
 }
 h4{
   font-family:"Poppins",serif;

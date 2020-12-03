@@ -51,6 +51,10 @@ h4{
    background-color: white;
    width:auto;95%
    color:purple;
+p{
+  border:2px solid white;
+}
+
 }
 a:link {
    text-decoration: none;

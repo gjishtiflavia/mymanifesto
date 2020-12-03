@@ -13,16 +13,16 @@ h1{
 }
 
 body{
-   font-size:25px;
-   font-family: itc-american-typewriter, serif;
+   font-size:35px;
+   font-family:"Parisienne,cursive", cursive;
    font-style: normal;
    font-weight: 300;
    background-color: #d5a2c6;
-   
+
 }
 p{
   font-family:'Ubuntu', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   padding-left:4em;
   color:black;
 }

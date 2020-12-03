@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/3d12ee8c9c39642046c8dd67586b9e11?family=athena);
+
 .content {
   margin:auto;
   padding-left: 4em
@@ -15,7 +15,7 @@ h1{
 
 body{
    font-size:35px;
-   font-family:"Athena";
+   font-family:"Major Mono Display", monospace;
    font-style: normal;
    font-weight: 300;
    background-color: #d5a2c6;

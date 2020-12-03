@@ -13,7 +13,7 @@ h1{
 }
 
 body{
-   font-size:25px;
+   font-size:30px;
    font-family: itc-american-typewriter, serif;
    font-style: normal;
    font-weight: 300;
@@ -27,7 +27,6 @@ p{
   color:white;
 }
 h1{
-  padding-right:30px;
   text-align: center;
 }
 p{

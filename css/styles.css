@@ -15,7 +15,7 @@ h1{
 
 body{
    font-size:35px;
-   font-family:"Passion One", cursive;
+   font-family:"Archivo Black", sans-serif;
    font-style: normal;
    font-weight: 300;
    background-color: #d5a2c6;
@@ -23,7 +23,7 @@ body{
 
 }
 p{
-  font-family:"Passion One", cursive;
+  font-family:"Archivo Black", sans-serif;
   font-size: 30px;
   padding-left:4em;
   color:black;
@@ -32,9 +32,8 @@ p{
 
 
 h2{
-  font-family: itc-american-typewriter,serif;
+  font-family:"Archivo Black", sans-serif;
   font-size: 35px;
-
 }
 h3{
   font-size: 35px;

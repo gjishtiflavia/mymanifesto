@@ -37,7 +37,7 @@ h2{
 }
 h3{
   font-size: 40px;
-  border-collapse:2px solid white;
+  border-image: url(a.png):2px solid white;
 }
 h4{
   font-family:"Poppins",serif;

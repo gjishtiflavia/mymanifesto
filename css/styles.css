@@ -33,11 +33,12 @@ p{
 h2{
   font-family:"Poppins", sans-serif;
   font-size: 40px;
-  border-top-left-radius:2px;
+  border-top-left-radius:4em;
+
 }
 h3{
   font-size: 40px;
-  border-bottom-right-radius:2px;
+  border-bottom-right-radius:4em;
 }
 h4{
   font-family:"Poppins",serif;
@@ -61,7 +62,9 @@ a:link {
 }
 </br>
 
+<br>
 
+</br>
 a:hoover {
      color:purple;
      padding:30px;

@@ -33,12 +33,12 @@ p{
 h2{
   font-family:"Poppins", sans-serif;
   font-size: 40px;
-  border-top-left-radius:4em;
+  border-top-left-radius:40%;
 
 }
 h3{
   font-size: 40px;
-  border-bottom-right-radius:4em;
+  border-bottom-right-radius:40%;
 }
 h4{
   font-family:"Poppins",serif;

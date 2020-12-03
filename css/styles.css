@@ -21,7 +21,12 @@ body{
 
 
 }
-
+p{
+  font-family:"Parisienne,cursive",cursive;
+  font-size: 30px;
+  padding-left:4em;
+  color:black;
+}
 
 
 

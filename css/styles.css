@@ -5,6 +5,7 @@
 h1{
   font-size: 300px;
   font-family:"Parisienne,cursive";
+  padding-right:30px;
 }
 .content {
   margin:auto;

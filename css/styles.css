@@ -33,11 +33,11 @@ p{
 h2{
   font-family:"Poppins", sans-serif;
   font-size: 40px;
-  border: 2px solid white;
+  border-top: 2px solid white;
 }
 h3{
   font-size: 40px;
-  border-image: url(a.png);
+  border-bottom: 2px solid white;
 }
 h4{
   font-family:"Poppins",serif;

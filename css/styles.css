@@ -18,7 +18,7 @@ body{
    font-style: normal;
    font-weight: 300;
    background-color: #d5a2c6;
-   border: 2px solid powderblue;
+
 
 }
 p{
@@ -26,6 +26,7 @@ p{
   font-size: 30px;
   padding-left:4em;
   color:black;
+  border: 2px solid white;
 }
 
 
@@ -39,7 +40,7 @@ h3{
   font-size: 35px;
 }
 h4{
-  font-size: 50px;
+  font-size: 70px;
   padding-left: 4em;
   text-align: center;
   border: 2px solid white;

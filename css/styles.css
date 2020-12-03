@@ -45,7 +45,7 @@ h4{
   font-family:"Poppins",serif;
   font-size: 50px;
   text-align: center;
-  border-top: 4px;
+  border-top: 4px solid blue;
 }
 
 

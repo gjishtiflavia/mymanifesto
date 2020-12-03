@@ -26,33 +26,25 @@ p{
   padding-left:4em;
   color:black;
 }
+
 h1{
   text-align: center;
 }
-p{
-  font-size: 35px;
-}
+
 h2{
-  padding-left: 5em
-  font-weight:400;
+  font-family: itc-american-typewriter,serif;
   font-size: 60px;
+  font-weight:400;
   text-align:center;
 }
+
 h4{
   font-size: 50px;
   padding-left: 4em
 }
-#header {
-    background-color: red;
-    width:100%
-    color:red;
-    position: fixed;
-    z-index: 100;
-  }
-.content {
-  margin:auto;
-  padding-left: 4em
-}
+
+
+
 #footer {
    background-color: white;
    width:auto;95%

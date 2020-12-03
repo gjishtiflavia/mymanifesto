@@ -22,12 +22,9 @@ body{
 }
 p{
   font-family:'Ubuntu', sans-serif;
-  font-size: 30px
+  font-size: 60px
   padding-left:4em
   color:white;
-}
-p{
-  font-size: 25px;
 }
 h1{
   padding-right:30px;
@@ -38,8 +35,8 @@ p{
 }
 h2{
   padding-left: 5em
-  font-size:30px
-  text-align:inherit;
+  font-size:70px
+  text-align:center;
 }
 h4{
   font-size: 50px;

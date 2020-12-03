@@ -38,7 +38,11 @@ h2{
 h3{
   font-size: 35px;
 }
-
+h4{
+  font-family:"Vidaloka",serif;
+  font-size: 60px;
+  text-align: center;
+}
 
 
 #footer {

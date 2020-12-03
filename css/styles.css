@@ -15,7 +15,7 @@ h1{
 
 body{
    font-size:35px;
-   font-family:"Archivo Black", sans-serif;
+   font-family:"Vidaloka",serif;
    font-style: normal;
    font-weight: 300;
    background-color: #d5a2c6;
@@ -23,7 +23,7 @@ body{
 
 }
 p{
-  font-family:"Archivo Black", sans-serif;
+  font-family:"Vidaloka", serif;
   font-size: 30px;
   padding-left:4em;
   color:black;
@@ -32,7 +32,7 @@ p{
 
 
 h2{
-  font-family:"Archivo Black", sans-serif;
+  font-family:"Parisienne", cursive;
   font-size: 35px;
 }
 h3{
